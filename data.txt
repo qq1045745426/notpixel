@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A6980416301%2C%22first_name%22%3A%22Rodrigo%20Salvo%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=871654458918959704&chat_type=sender&auth_date=1728973194&hash=6fac8b6a5f693579855fc31e389b8ea39b2e63ce25176521abf96bb6d0d14123
